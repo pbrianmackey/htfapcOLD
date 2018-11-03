@@ -1,0 +1,11 @@
+{
+  "name": "htfapc",
+  "version": "1.0.0",
+  "description": "https://angular.io/cli `npm install -g @angular/cli`",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Brian Mackey",
+  "license": "ISC"
+}
